@@ -4,5 +4,5 @@ Features
 1. Clean and structured HTML5
 2. Styling with CSS3
 
-To view the clone click on the link given below
+To view the clone project, click on the link -> 
 https://gauraang05.github.io/Amazon-Clone-Homepage/

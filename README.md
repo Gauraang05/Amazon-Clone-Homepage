@@ -3,5 +3,6 @@ This is my first project in my WebDev journey, it's a clone of "amazon.com" home
 Features
 1. Clean and structured HTML5
 2. Styling with CSS3
+
 To view the clone click on the link given below
 https://gauraang05.github.io/Amazon-Clone-Homepage/
